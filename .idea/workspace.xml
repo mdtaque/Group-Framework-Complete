@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d21f956d-2659-4ad4-9b3d-104503130302" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ConnectMeToDataBase/src/ConnectToMySQL/AddClassd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/byte-buddy-1.8.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/commons-codec-1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/guava-25.0-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/httpclient-4.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/httpcore-4.4.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/okhttp-3.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/okio-1.14.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AllFeatures/lib/mysql-connector-java-8.0.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DifferentActions/drivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DifferentActions/drivers/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DifferentActions/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/byte-buddy-1.8.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/commons-codec-1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/guava-25.0-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/httpclient-4.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/httpcore-4.4.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/okhttp-3.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/okio-1.14.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/selenium-server-standalone-3.14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/testng-6.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice For Midterm/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/src/main/java/WindowHandling/HandleWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllFeatures/src/main/java/WindowHandling/HandleWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/src/test/java/TestWindowHandle/TestHandleWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllFeatures/src/test/java/TestWindowHandle/TestHandleWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/classes/HomepagePnt/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/classes/PopUpHandle/HandlePopUp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/classes/PopUpHandle/HandlePopUp$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/classes/PopUpHandle/HandlePopUp$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/classes/PopUpHandle/HandlePopUp$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/classes/PopUpHandle/HandlePopUp$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/classes/PopUpHandle/HandlePopUp$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/classes/PopUpHandle/HandlePopUp$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/classes/PopUpHandle/HandlePopUp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/classes/ReadingTableData/ReadDataFromTable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/classes/ReadingTableData/ReadDataFromTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/classes/WindowHandling/HandleWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/AllFeatures/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/AllFeatures/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/test-classes/TestWindowHandle/TestHandleWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllFeatures/target/test-classes/TestWindowHandle/TestHandleWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxNews/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/FoxNews/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxNews/target/FoxNews-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/FoxNews/target/FoxNews-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxNews/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/FoxNews/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/BaseUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/BaseUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESTApii/src/test/java/JSONServer/PostResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/RESTApii/src/test/java/JSONServer/PostResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESTApii/target/test-classes/JSONServer/PostResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/RESTApii/target/test-classes/JSONServer/PostResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/data/Xls_To_Read.xls" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/data/Xls_To_Read.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/src/test/java/TestLogIn/SignInUsingDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/test/java/TestLogIn/SignInUsingDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld.java/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/staticmethod/StaticMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/staticmethod/StaticMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/staticmethod/TestMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/staticmethod/TestMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/staticvariables/StaticVariables.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/staticvariables/StaticVariables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/staticvariables/TestStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/staticvariables/TestStatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/src/staticmethod/StaticMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/src/staticmethod/StaticMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/src/staticmethod/TestMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/src/staticmethod/TestMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/src/staticvariables/StaticVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/src/staticvariables/StaticVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/src/staticvariables/TestStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/src/staticvariables/TestStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file.txt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Generic/target/" />
+    <ignored path="$PROJECT_DIR$/FoxNews/target/" />
+    <ignored path="$PROJECT_DIR$/ebay/target/" />
+    <ignored path="$PROJECT_DIR$/Piit/target/" />
+    <ignored path="$PROJECT_DIR$/xxx/target/" />
+    <ignored path="$PROJECT_DIR$/RestAPI/target/" />
+    <ignored path="$PROJECT_DIR$/RESTApii/target/" />
+    <ignored path="$PROJECT_DIR$/Features/target/" />
+    <ignored path="$PROJECT_DIR$/AllFeatures/target/" />
+    <ignored path="$PROJECT_DIR$/DifferentActions/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1679027161">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="57" />
+          <entry key="project.open.time.0" value="45" />
+          <entry key="project.open.time.1" value="9" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="61" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="38" />
+          <entry key="java" value="29458" />
+          <entry key="properties" value="160" />
+          <entry key="xml" value="812" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="29458" />
+          <entry key="PLAIN_TEXT" value="81" />
+          <entry key="Properties" value="160" />
+          <entry key="XML" value="769" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="25" />
+          <entry key="html" value="1" />
+          <entry key="java" value="621" />
+          <entry key="json" value="1" />
+          <entry key="log" value="1" />
+          <entry key="png" value="17" />
+          <entry key="properties" value="7" />
+          <entry key="server/PNT/Table" value="1" />
+          <entry key="server/Rifat/Table" value="1" />
+          <entry key="server/Rifat/Taque" value="1" />
+          <entry key="server/students/profile" value="2" />
+          <entry key="server/students/qtp" value="1" />
+          <entry key="server/students/students" value="6" />
+          <entry key="xml" value="169" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="25" />
+          <entry key="HTML" value="1" />
+          <entry key="Image" value="17" />
+          <entry key="JAVA" value="621" />
+          <entry key="JSON" value="1" />
+          <entry key="MONGO" value="12" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Properties" value="7" />
+          <entry key="XML" value="167" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="GroupFramework" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RESTApii/src/test/java/EmployeeServices/AllEmployeeRestServices.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DifferentActions/src/main/java/CrossBrowserTesting/CrossBrowser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ebay/src/main/java/LogInPage/SignIn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/DataProviderUtilityWithXlsReader/Xls_Reader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestLogIn/SignInUsingDataProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/DataProviderUtilityWithXlsReader/XlsDataReaderUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="63" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="62" column="72" selection-start-line="62" selection-start-column="72" selection-end-line="62" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RESTApii/src/test/java/JSONServer/PostResource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AllFeatures/src/test/resources/FeaturesTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Piit/src/main/java/WindowHandling/HandleWindow.java" />
+        <option value="$PROJECT_DIR$/ebay/src/main/java/LogInPage/GoogleSheetsPage.java" />
+        <option value="$PROJECT_DIR$/ebay/src/test/java/TestLogIn/TestGoogleSheetsPage.java" />
+        <option value="$PROJECT_DIR$/ebay/src/main/java/LogInPage/LoginWithKeyword.java" />
+        <option value="$PROJECT_DIR$/ebay/src/test/java/TestLogIn/TestKeywordDriven.java" />
+        <option value="$PROJECT_DIR$/FoxNews/src/main/java/HomePage/HomePageClick.java" />
+        <option value="$PROJECT_DIR$/FoxNews/src/test/java/TestHomePageClick/ClickHomepage.java" />
+        <option value="$PROJECT_DIR$/FoxNews/src/test/java/TestLoginPage/LoginTest.java" />
+        <option value="$PROJECT_DIR$/AllFeatures/src/test/java/TestHandlePopUp/TestPopUpHandle.java" />
+        <option value="$PROJECT_DIR$/RESTApii/pom.xml" />
+        <option value="$PROJECT_DIR$/ebay/src/main/java/HomepageEbay/HomePage.java" />
+        <option value="$PROJECT_DIR$/ebay/src/test/java/TestHomePage/TestHome.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" />
+        <option value="$PROJECT_DIR$/ebay/src/main/java/dastabase2/ConnectToSqlDB.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/database2/ConnectToSqlDB.java" />
+        <option value="$PROJECT_DIR$/ebay/src/test/java/TestDataBase/DatabaseTest.java" />
+        <option value="$PROJECT_DIR$/ebay/src/secret.properties" />
+        <option value="$PROJECT_DIR$/ebay/src/main/java/Database/Databaseconnection.java" />
+        <option value="$PROJECT_DIR$/FoxNews/src/test/resources/FoxNewsTestRunner.xml" />
+        <option value="$PROJECT_DIR$/RESTApii/src/test/java/JSONServer/PostResource.java" />
+        <option value="$PROJECT_DIR$/RESTApii/src/test/java/OpenWeatherMap/GetRequestTest.java" />
+        <option value="$PROJECT_DIR$/RESTApii/src/test/java/EmployeeServices/SingleEmployeeRestServices.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/DifferentActions/src/main/java/HighLightText/HighLighter.java" />
+        <option value="$PROJECT_DIR$/DifferentActions/src/test/java/TestHighLightText/TestHighLighter.java" />
+        <option value="$PROJECT_DIR$/ebay/src/test/resources/ebayRunner.xml" />
+        <option value="$PROJECT_DIR$/AllFeatures/src/main/java/Utility/CaptureScreenShot.java" />
+        <option value="$PROJECT_DIR$/AllFeatures/src/main/java/WindowHandling/HandleWindow.java" />
+        <option value="$PROJECT_DIR$/AllFeatures/src/test/java/TestWindowHandle/TestHandleWindow.java" />
+        <option value="$PROJECT_DIR$/DifferentActions/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" />
+        <option value="$PROJECT_DIR$/DifferentActions/src/test/java/TestHandleDynamicButtons/TestDynamicButtons.java" />
+        <option value="$PROJECT_DIR$/DifferentActions/src/main/java/DynamicRadioButtonAndCheckBox/HandleDynamicButtons.java" />
+        <option value="$PROJECT_DIR$/DifferentActions/src/test/resources/CrossBrowserRunner.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/DifferentActions/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/DifferentActions/src/main/java/GenerateLogs/VerifyTitleTest.java" />
+        <option value="$PROJECT_DIR$/DifferentActions/src/main/java/RunFailedTestCases/FailedTestRunner.java" />
+        <option value="$PROJECT_DIR$/RESTApii/src/test/java/EmployeeServices/AllEmployeeRestServices.java" />
+        <option value="$PROJECT_DIR$/DifferentActions/src/main/java/FailedTestsRunWithAnalyzer/RetryAnalyzer.java" />
+        <option value="$PROJECT_DIR$/DifferentActions/src/test/java/RetryTests/MyTests.java" />
+        <option value="$PROJECT_DIR$/DifferentActions/src/main/java/FailedTestsRunWithAnalyzer/MyTransformer.java" />
+        <option value="$PROJECT_DIR$/DifferentActions/src/test/resources/RetryRunner.xml" />
+        <option value="$PROJECT_DIR$/DifferentActions/src/main/java/SoftNHardAssertion/Assertion.java" />
+        <option value="$PROJECT_DIR$/AllFeatures/src/main/java/DataBaseTest/ConnectMySQL.java" />
+        <option value="$PROJECT_DIR$/DifferentActions/src/main/java/CrossBrowserTesting/CrossBrowser.java" />
+        <option value="$PROJECT_DIR$/DifferentActions/src/main/java/DataBaseTest/ConnectMySQL.java" />
+        <option value="$PROJECT_DIR$/ebay/src/main/java/LogInPage/SignIn.java" />
+        <option value="$PROJECT_DIR$/ebay/src/test/java/TestLogIn/SignInUsingDataProvider.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="DifferentActions" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="DifferentActions" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="18" />
+    <option name="y" value="27" />
+    <option name="width" value="1353" />
+    <option name="height" value="830" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="AllFeatures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="AllFeatures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="AllFeatures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="AllFeatures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="AllFeatures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ReadingTableData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="AllFeatures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Utility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="AllFeatures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="WindowHandling" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="AllFeatures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="AllFeatures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="DifferentActions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="DifferentActions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="DifferentActions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="DifferentActions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="DifferentActions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="CrossBrowserTesting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="DifferentActions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataBaseTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="DifferentActions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="DynamicRadioButtonAndCheckBox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="DifferentActions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="FailedTestsRunWithAnalyzer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="DifferentActions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="GenerateLogs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="DifferentActions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="HighLightText" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="DifferentActions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="RunFailedTestCases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="DifferentActions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="SoftNHardAssertion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="DifferentActions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="DifferentActions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="DifferentActions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="DifferentActions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TestHandleDynamicButtons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="DifferentActions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="ebay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="LogInPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TestLogIn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataProviderUtilityWithXlsReader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RESTApii" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RESTApii" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RESTApii" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RESTApii" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RESTApii" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="EmployeeServices" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RESTApii" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="JSONServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546129776046" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20588236" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DifferentActions/src/test" />
+      <recent name="$PROJECT_DIR$/AllFeatures/Extent-Report" />
+      <recent name="$PROJECT_DIR$/AllFeatures/src/test" />
+      <recent name="$PROJECT_DIR$/RESTApii/src/test" />
+      <recent name="$PROJECT_DIR$/Generic/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DataBaseTest" />
+      <recent name="dastabase2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AllFeatures/lib" />
+      <recent name="$PROJECT_DIR$/DifferentActions/drivers" />
+      <recent name="$PROJECT_DIR$/AllFeatures/src/test/java" />
+      <recent name="$PROJECT_DIR$/AllFeatures/src/main/java" />
+      <recent name="$PROJECT_DIR$/ebay/data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.Assertion.test2">
+    <configuration name="Assertion.test1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DifferentActions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SoftNHardAssertion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SoftNHardAssertion" />
+      <option name="MAIN_CLASS_NAME" value="SoftNHardAssertion.Assertion" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assertion.test2" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DifferentActions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SoftNHardAssertion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SoftNHardAssertion" />
+      <option name="MAIN_CLASS_NAME" value="SoftNHardAssertion.Assertion" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyTitleTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DifferentActions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GenerateLogs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="GenerateLogs" />
+      <option name="MAIN_CLASS_NAME" value="GenerateLogs.VerifyTitleTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyTitleTest.titleTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DifferentActions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GenerateLogs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="GenerateLogs" />
+      <option name="MAIN_CLASS_NAME" value="GenerateLogs.VerifyTitleTest" />
+      <option name="METHOD_NAME" value="titleTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/mdtaque/eclipse-workspace/GroupFramework/DifferentActions/src/test/resources/RetryRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DifferentActions" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/DifferentActions/src/test/resources/RetryRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.VerifyTitleTest" />
+      <item itemvalue="TestNG.VerifyTitleTest.titleTest" />
+      <item itemvalue="TestNG./Users/mdtaque/eclipse-workspace/GroupFramework/DifferentActions/src/test/resources/RetryRunner.xml" />
+      <item itemvalue="TestNG.Assertion.test1" />
+      <item itemvalue="TestNG.Assertion.test2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Assertion.test2" />
+        <item itemvalue="TestNG.Assertion.test1" />
+        <item itemvalue="TestNG./Users/mdtaque/eclipse-workspace/GroupFramework/DifferentActions/src/test/resources/RetryRunner.xml" />
+        <item itemvalue="TestNG.VerifyTitleTest.titleTest" />
+        <item itemvalue="TestNG.VerifyTitleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d21f956d-2659-4ad4-9b3d-104503130302" name="Default Changelist" comment="" />
+      <created>1537286763353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537286763353</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_mdtaque_eclipse-workspace_GroupFramework_DifferentActions_src_test_resources_CrossBrowserRunner_xml - 2018.11.25 at 16h 30m 03s.xml">
+      <configuration name="/Users/mdtaque/eclipse-workspace/GroupFramework/DifferentActions/src/test/resources/CrossBrowserRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VerifyTitleTest - 2018.11.25 at 18h 56m 53s.xml">
+      <configuration name="VerifyTitleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VerifyTitleTest_titleTest - 2018.11.25 at 19h 59m 04s.xml">
+      <configuration name="VerifyTitleTest.titleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VerifyTitleTest_titleTest - 2018.11.26 at 01h 43m 25s.xml">
+      <configuration name="VerifyTitleTest.titleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mdtaque_eclipse-workspace_GroupFramework_DifferentActions_src_test_resources_RetryRunner_xml - 2018.12.02 at 21h 01m 13s.xml">
+      <configuration name="/Users/mdtaque/eclipse-workspace/GroupFramework/DifferentActions/src/test/resources/RetryRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Assertion_test1 - 2018.12.02 at 22h 43m 23s.xml">
+      <configuration name="Assertion.test1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Assertion_test1 - 2018.12.02 at 22h 43m 58s.xml">
+      <configuration name="Assertion.test1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Assertion_test1 - 2018.12.02 at 22h 44m 35s.xml">
+      <configuration name="Assertion.test1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Assertion_test1 - 2018.12.02 at 22h 44m 52s.xml">
+      <configuration name="Assertion.test1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Assertion_test2 - 2018.12.02 at 22h 47m 07s.xml">
+      <configuration name="Assertion.test2" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="18" y="27" width="1353" height="830" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49798387" visible="true" weight="0.13729978" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5020161" side_tool="true" weight="0.16452074" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32655826" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25745258" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3306233" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26287264" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32249323" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.24103737" />
+      <window_info anchor="right" id="Mongo Explorer" order="8" weight="0.3274559" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798387" visible="true" weight="0.22024234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5020161" side_tool="true" weight="0.16452074" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32771084" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39295393" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2807229" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32384825" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.22857143" />
+      <window_info anchor="right" id="Mongo Explorer" order="8" weight="0.3281106" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Generic/src/main/java/DataProviderUtilityWithXlsReader/XlsDataReaderUtil.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ebay/src/main/java/LogInPage/LoginWithKeyword.java</url>
+          <line>38</line>
+          <properties class="LogInPage.LoginWithKeyword" method="loginByKeyword">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="137" column="17" selection-start-line="137" selection-start-column="17" selection-end-line="137" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxNews/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="42" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxNews/src/test/resources/FoxNewsTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="8" lean-forward="true" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="101" column="25" lean-forward="true" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar!/org/apache/log4j/Logger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DifferentActions/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="103" selection-start-line="18" selection-start-column="103" selection-end-line="18" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/DataReader/XlsReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.17/poi-3.17.jar!/org/apache/poi/hssf/usermodel/HSSFWorkbook.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="104" column="19" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.17/poi-3.17.jar!/org/apache/poi/hssf/usermodel/HSSFSheet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.17/poi-3.17.jar!/org/apache/poi/hssf/usermodel/HSSFRow.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.17/poi-3.17.jar!/org/apache/poi/hssf/usermodel/HSSFCell.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DifferentActions/application.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DifferentActions/src/test/java/RetryTests/MyTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/annotations/ITestAnnotation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/reflect/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="63" column="19" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.12/mysql-connector-java-8.0.12.jar!/com/mysql/jdbc/Driver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="287" column="27" selection-start-line="287" selection-start-column="27" selection-end-line="287" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.sql/java/sql/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.sql/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="104" column="14" selection-start-line="104" selection-start-column="14" selection-end-line="104" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.sql/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="176" column="12" selection-start-line="176" selection-start-column="12" selection-end-line="176" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/LogInPage/LoginWithKeyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestLogIn/TestKeywordDriven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DifferentActions/src/main/java/FailedTestsRunWithAnalyzer/MyTransformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DifferentActions/src/main/java/FailedTestsRunWithAnalyzer/RetryAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RESTApii/src/test/java/EmployeeServices/SingleEmployeeRestServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DifferentActions/src/main/java/GenerateLogs/VerifyTitleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DifferentActions/src/main/java/HighLightText/HighLighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DifferentActions/src/main/java/RunFailedTestCases/FailedTestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DifferentActions/src/main/java/SoftNHardAssertion/Assertion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DifferentActions/src/test/resources/RetryRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RESTApii/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllFeatures/src/main/java/ReadingTableData/ReadDataFromTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DifferentActions/src/test/java/TestHandleDynamicButtons/TestDynamicButtons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DifferentActions/src/main/java/DynamicRadioButtonAndCheckBox/HandleDynamicButtons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0-sources.jar!/org/openqa/selenium/WebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="274" column="50" lean-forward="true" selection-start-line="274" selection-start-column="50" selection-end-line="274" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllFeatures/src/main/java/WindowHandling/HandleWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllFeatures/src/main/java/Utility/CaptureScreenShot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="38" column="19" lean-forward="true" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DifferentActions/src/main/java/DataBaseTest/ConnectMySQL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RESTApii/src/test/java/EmployeeServices/AllEmployeeRestServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="62" column="72" selection-start-line="62" selection-start-column="72" selection-end-line="62" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RESTApii/src/test/java/JSONServer/PostResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DifferentActions/src/test/resources/CrossBrowserRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DifferentActions/src/main/java/CrossBrowserTesting/CrossBrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/DataDrivenTest/TestXlsReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/DataProviderUtilityWithXlsReader/XlsDataReaderUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="63" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/LogInPage/SignIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestLogIn/SignInUsingDataProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/DataProviderUtilityWithXlsReader/Xls_Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DifferentActions</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20588236" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

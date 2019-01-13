@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [FoxNews API Automation Script ]">
+  <parameter name="useCloudEnv" value="false"/>
+  <parameter name="os" value="OS X"/>
+  <parameter name="os_version" value="Sierra"/>
+  <parameter name="browserVersion" value="69.0"/>
+  <parameter name="browserName" value="chrome"/>
+  <parameter name="cloudEnvName" value="browserstack"/>
+  <parameter name="url" value="http://www.foxnews.com/"/>
+  <test thread-count="5" verbose="0" name="Click Test(failed)">
+    <classes>
+      <class name="TestLoginPage.LoginTest">
+        <methods>
+          <include name="enterPass"/>
+          <include name="testCreateAccount"/>
+          <include name="afterEachTestMethod"/>
+          <include name="generateReport"/>
+          <include name="extentSetup"/>
+          <include name="Initialization2"/>
+          <include name="logInButtonPress"/>
+          <include name="setUp"/>
+          <include name="testLogInButton"/>
+          <include name="startExtent"/>
+          <include name="enterEmailOnEmailBox"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- TestLoginPage.LoginTest -->
+      <class name="TestHomePageClick.ClickHomepage">
+        <methods>
+          <include name="main5"/>
+          <include name="searchboxiconEnter"/>
+          <include name="main4"/>
+          <include name="afterEachTestMethod"/>
+          <include name="main3"/>
+          <include name="partialLinkTextverify"/>
+          <include name="main2"/>
+          <include name="initialization"/>
+          <include name="links"/>
+          <include name="extentSetup"/>
+          <include name="startExtent"/>
+          <include name="logo"/>
+          <include name="cleanUp"/>
+          <include name="main"/>
+          <include name="generateReport"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestHomePageClick.ClickHomepage -->
+    </classes>
+  </test> <!-- Click Test(failed) -->
+</suite> <!-- Failed suite [FoxNews API Automation Script ] -->

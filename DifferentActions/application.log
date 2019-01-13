@@ -1,0 +1,8 @@
+2018-11-26 01:43:22,799  INFO [main] VerifyTitleTest:22 - browser is launching
+2018-11-26 01:43:24,686  INFO [main] VerifyTitleTest:26 - entering url
+2018-11-26 01:43:24,687  WARN [main] VerifyTitleTest:29 - this is a warning msg!
+2018-11-26 01:43:24,688 FATAL [main] VerifyTitleTest:30 - this is fatal/error msg!
+2018-11-26 01:43:24,688 DEBUG [main] VerifyTitleTest:31 - this is debug msg
+2018-11-26 01:43:25,274  INFO [main] VerifyTitleTest:43 - title is achieved
+2018-11-26 01:43:25,275  INFO [main] VerifyTitleTest:45 - title is printed
+2018-11-26 01:43:25,437  INFO [main] VerifyTitleTest:37 - browser is closing

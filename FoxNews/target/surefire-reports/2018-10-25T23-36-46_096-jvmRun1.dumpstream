@@ -1,0 +1,1543 @@
+# Created at 2018-10-25T23:37:46.689
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2018-10-25T23:37:52.235
+Unexpected IOException: 5,1,TestHomePageClick.ClickHomepage,clickSearchBox(TestHomePageClick.ClickHomepage),TestHomePageClick.ClickHomepage,null,null
+
+
+# Created at 2018-10-25T23:37:52.236
+Unexpected IOException with stream: ClickHomepage: click Search Box
+
+
+# Created at 2018-10-25T23:37:52.237
+Unexpected IOException with stream: HomePageClick: search Box Click
+
+
+# Created at 2018-10-25T23:37:52.492
+Unexpected IOException: 6,1,TestHomePageClick.ClickHomepage,clickSearchBox(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:37:52.633
+Unexpected IOException with stream: S
+
+# Created at 2018-10-25T23:37:52.634
+Unexpected IOException with stream: t
+
+# Created at 2018-10-25T23:37:52.634
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:37:52.635
+Unexpected IOException with stream: r
+
+# Created at 2018-10-25T23:37:52.635
+Unexpected IOException with stream: t
+
+# Created at 2018-10-25T23:37:52.635
+Unexpected IOException with stream: i
+
+# Created at 2018-10-25T23:37:52.635
+Unexpected IOException with stream: n
+
+# Created at 2018-10-25T23:37:52.636
+Unexpected IOException with stream: g
+
+# Created at 2018-10-25T23:37:52.636
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:37:52.636
+Unexpected IOException with stream: C
+
+# Created at 2018-10-25T23:37:52.637
+Unexpected IOException with stream: h
+
+# Created at 2018-10-25T23:37:52.637
+Unexpected IOException with stream: r
+
+# Created at 2018-10-25T23:37:52.637
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:37:52.637
+Unexpected IOException with stream: m
+
+# Created at 2018-10-25T23:37:52.637
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:37:52.638
+Unexpected IOException with stream: D
+
+# Created at 2018-10-25T23:37:52.638
+Unexpected IOException with stream: r
+
+# Created at 2018-10-25T23:37:52.638
+Unexpected IOException with stream: i
+
+# Created at 2018-10-25T23:37:52.638
+Unexpected IOException with stream: v
+
+# Created at 2018-10-25T23:37:52.639
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:37:52.639
+Unexpected IOException with stream: r
+
+# Created at 2018-10-25T23:37:52.639
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:37:52.639
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:37:52.639
+Unexpected IOException with stream: .
+
+# Created at 2018-10-25T23:37:52.640
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-25T23:37:52.640
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:37:52.640
+Unexpected IOException with stream: .
+
+# Created at 2018-10-25T23:37:52.640
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-25T23:37:52.641
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-25T23:37:52.641
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-25T23:37:52.641
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-25T23:37:52.642
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-25T23:37:52.642
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-25T23:37:52.642
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:37:52.643
+Unexpected IOException with stream: (
+
+# Created at 2018-10-25T23:37:52.643
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:37:52.643
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-25T23:37:52.643
+Unexpected IOException with stream: d
+
+# Created at 2018-10-25T23:37:52.644
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-25T23:37:52.644
+Unexpected IOException with stream: 6
+
+# Created at 2018-10-25T23:37:52.645
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-25T23:37:52.645
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-25T23:37:52.645
+Unexpected IOException with stream: d
+
+# Created at 2018-10-25T23:37:52.646
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-25T23:37:52.646
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-25T23:37:52.646
+Unexpected IOException with stream: d
+
+# Created at 2018-10-25T23:37:52.647
+Unexpected IOException with stream: 6
+
+# Created at 2018-10-25T23:37:52.647
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-25T23:37:52.647
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:37:52.647
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:37:52.648
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-25T23:37:52.648
+Unexpected IOException with stream: c
+
+# Created at 2018-10-25T23:37:52.648
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-25T23:37:52.649
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-25T23:37:52.649
+Unexpected IOException with stream: f
+
+# Created at 2018-10-25T23:37:52.649
+Unexpected IOException with stream: 6
+
+# Created at 2018-10-25T23:37:52.649
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-25T23:37:52.650
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:37:52.650
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-25T23:37:52.650
+Unexpected IOException with stream: b
+
+# Created at 2018-10-25T23:37:52.650
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-25T23:37:52.650
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:37:52.651
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-25T23:37:52.651
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:37:52.652
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-25T23:37:52.652
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-25T23:37:52.652
+Unexpected IOException with stream: b
+
+# Created at 2018-10-25T23:37:52.653
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:37:52.653
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-25T23:37:52.653
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:37:52.654
+Unexpected IOException with stream: b
+
+# Created at 2018-10-25T23:37:52.654
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:37:52.654
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:37:52.655
+Unexpected IOException with stream: d
+
+# Created at 2018-10-25T23:37:52.655
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-25T23:37:52.655
+Unexpected IOException with stream: )
+
+# Created at 2018-10-25T23:37:52.656
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:37:52.656
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:37:52.656
+Unexpected IOException with stream: n
+
+# Created at 2018-10-25T23:37:52.657
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:37:52.657
+Unexpected IOException with stream: p
+
+# Created at 2018-10-25T23:37:52.657
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:37:52.657
+Unexpected IOException with stream: r
+
+# Created at 2018-10-25T23:37:52.658
+Unexpected IOException with stream: t
+
+# Created at 2018-10-25T23:37:52.658
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:37:52.658
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:37:52.659
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-25T23:37:52.659
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:37:52.659
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-25T23:37:52.660
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-25T23:37:52.660
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-25T23:37:52.660
+Unexpected IOException with stream: O
+
+# Created at 2018-10-25T23:37:52.661
+Unexpected IOException with stream: n
+
+# Created at 2018-10-25T23:37:52.661
+Unexpected IOException with stream: l
+
+# Created at 2018-10-25T23:37:52.661
+Unexpected IOException with stream: y
+
+# Created at 2018-10-25T23:37:52.662
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:37:52.662
+Unexpected IOException with stream: l
+
+# Created at 2018-10-25T23:37:52.663
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:37:52.663
+Unexpected IOException with stream: c
+
+# Created at 2018-10-25T23:37:52.663
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:37:52.664
+Unexpected IOException with stream: l
+
+# Created at 2018-10-25T23:37:52.664
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:37:52.664
+Unexpected IOException with stream: c
+
+# Created at 2018-10-25T23:37:52.665
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:37:52.665
+Unexpected IOException with stream: n
+
+# Created at 2018-10-25T23:37:52.665
+Unexpected IOException with stream: n
+
+# Created at 2018-10-25T23:37:52.666
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:37:52.666
+Unexpected IOException with stream: c
+
+# Created at 2018-10-25T23:37:52.666
+Unexpected IOException with stream: t
+
+# Created at 2018-10-25T23:37:52.667
+Unexpected IOException with stream: i
+
+# Created at 2018-10-25T23:37:52.667
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:37:52.667
+Unexpected IOException with stream: n
+
+# Created at 2018-10-25T23:37:52.667
+Unexpected IOException with stream: s
+
+# Created at 2018-10-25T23:37:52.668
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:37:52.668
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:37:52.668
+Unexpected IOException with stream: r
+
+# Created at 2018-10-25T23:37:52.669
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:37:52.669
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:37:52.669
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:37:52.670
+Unexpected IOException with stream: l
+
+# Created at 2018-10-25T23:37:52.670
+Unexpected IOException with stream: l
+
+# Created at 2018-10-25T23:37:52.670
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:37:52.670
+Unexpected IOException with stream: w
+
+# Created at 2018-10-25T23:37:52.671
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:37:52.671
+Unexpected IOException with stream: d
+
+# Created at 2018-10-25T23:37:52.671
+Unexpected IOException with stream: .
+
+# Created at 2018-10-25T23:37:52.671
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-25T23:37:53.243
+Unexpected IOException with stream: Oct 25, 2018 11:37:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+
+
+# Created at 2018-10-25T23:38:00.612
+Unexpected IOException: 5,1,TestHomePageClick.ClickHomepage,linkTextverify(TestHomePageClick.ClickHomepage),TestHomePageClick.ClickHomepage,null,null
+
+
+# Created at 2018-10-25T23:38:00.613
+Unexpected IOException with stream: ClickHomepage: link Textverify
+
+
+# Created at 2018-10-25T23:38:00.614
+Unexpected IOException with stream: HomePageClick: link Text
+
+
+# Created at 2018-10-25T23:38:01.483
+Unexpected IOException: 6,1,TestHomePageClick.ClickHomepage,linkTextverify(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:01.674
+Unexpected IOException with stream: S
+
+# Created at 2018-10-25T23:38:01.674
+Unexpected IOException with stream: t
+
+# Created at 2018-10-25T23:38:01.675
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:38:01.675
+Unexpected IOException with stream: r
+
+# Created at 2018-10-25T23:38:01.675
+Unexpected IOException with stream: t
+
+# Created at 2018-10-25T23:38:01.675
+Unexpected IOException with stream: i
+
+# Created at 2018-10-25T23:38:01.676
+Unexpected IOException with stream: n
+
+# Created at 2018-10-25T23:38:01.676
+Unexpected IOException with stream: g
+
+# Created at 2018-10-25T23:38:01.676
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:01.676
+Unexpected IOException with stream: C
+
+# Created at 2018-10-25T23:38:01.677
+Unexpected IOException with stream: h
+
+# Created at 2018-10-25T23:38:01.677
+Unexpected IOException with stream: r
+
+# Created at 2018-10-25T23:38:01.677
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:38:01.677
+Unexpected IOException with stream: m
+
+# Created at 2018-10-25T23:38:01.678
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:38:01.678
+Unexpected IOException with stream: D
+
+# Created at 2018-10-25T23:38:01.678
+Unexpected IOException with stream: r
+
+# Created at 2018-10-25T23:38:01.678
+Unexpected IOException with stream: i
+
+# Created at 2018-10-25T23:38:01.679
+Unexpected IOException with stream: v
+
+# Created at 2018-10-25T23:38:01.679
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:38:01.679
+Unexpected IOException with stream: r
+
+# Created at 2018-10-25T23:38:01.679
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:01.679
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:38:01.680
+Unexpected IOException with stream: .
+
+# Created at 2018-10-25T23:38:01.680
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-25T23:38:01.680
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:38:01.680
+Unexpected IOException with stream: .
+
+# Created at 2018-10-25T23:38:01.680
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-25T23:38:01.681
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-25T23:38:01.681
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-25T23:38:01.681
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-25T23:38:01.681
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-25T23:38:01.681
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-25T23:38:01.681
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:01.682
+Unexpected IOException with stream: (
+
+# Created at 2018-10-25T23:38:01.682
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:38:01.682
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-25T23:38:01.682
+Unexpected IOException with stream: d
+
+# Created at 2018-10-25T23:38:01.682
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-25T23:38:01.683
+Unexpected IOException with stream: 6
+
+# Created at 2018-10-25T23:38:01.683
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-25T23:38:01.683
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-25T23:38:01.683
+Unexpected IOException with stream: d
+
+# Created at 2018-10-25T23:38:01.683
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-25T23:38:01.684
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-25T23:38:01.684
+Unexpected IOException with stream: d
+
+# Created at 2018-10-25T23:38:01.684
+Unexpected IOException with stream: 6
+
+# Created at 2018-10-25T23:38:01.684
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-25T23:38:01.684
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:38:01.685
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:38:01.685
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-25T23:38:01.685
+Unexpected IOException with stream: c
+
+# Created at 2018-10-25T23:38:01.685
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-25T23:38:01.686
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-25T23:38:01.686
+Unexpected IOException with stream: f
+
+# Created at 2018-10-25T23:38:01.686
+Unexpected IOException with stream: 6
+
+# Created at 2018-10-25T23:38:01.686
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-25T23:38:01.687
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:38:01.687
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-25T23:38:01.688
+Unexpected IOException with stream: b
+
+# Created at 2018-10-25T23:38:01.688
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-25T23:38:01.688
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:38:01.688
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-25T23:38:01.689
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:38:01.689
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-25T23:38:01.689
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-25T23:38:01.689
+Unexpected IOException with stream: b
+
+# Created at 2018-10-25T23:38:01.689
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:38:01.689
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-25T23:38:01.690
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:38:01.690
+Unexpected IOException with stream: b
+
+# Created at 2018-10-25T23:38:01.690
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:38:01.690
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:38:01.690
+Unexpected IOException with stream: d
+
+# Created at 2018-10-25T23:38:01.691
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-25T23:38:01.691
+Unexpected IOException with stream: )
+
+# Created at 2018-10-25T23:38:01.691
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:01.691
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:38:01.692
+Unexpected IOException with stream: n
+
+# Created at 2018-10-25T23:38:01.692
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:01.692
+Unexpected IOException with stream: p
+
+# Created at 2018-10-25T23:38:01.692
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:38:01.692
+Unexpected IOException with stream: r
+
+# Created at 2018-10-25T23:38:01.693
+Unexpected IOException with stream: t
+
+# Created at 2018-10-25T23:38:01.693
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:01.693
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:38:01.693
+Unexpected IOException with stream: 6
+
+# Created at 2018-10-25T23:38:01.694
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:38:01.694
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-25T23:38:01.694
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-25T23:38:01.694
+Unexpected IOException with stream: O
+
+# Created at 2018-10-25T23:38:01.694
+Unexpected IOException with stream: n
+
+# Created at 2018-10-25T23:38:01.695
+Unexpected IOException with stream: l
+
+# Created at 2018-10-25T23:38:01.695
+Unexpected IOException with stream: y
+
+# Created at 2018-10-25T23:38:01.695
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:01.695
+Unexpected IOException with stream: l
+
+# Created at 2018-10-25T23:38:01.696
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:38:01.696
+Unexpected IOException with stream: c
+
+# Created at 2018-10-25T23:38:01.696
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:38:01.696
+Unexpected IOException with stream: l
+
+# Created at 2018-10-25T23:38:01.696
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:01.697
+Unexpected IOException with stream: c
+
+# Created at 2018-10-25T23:38:01.697
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:38:01.697
+Unexpected IOException with stream: n
+
+# Created at 2018-10-25T23:38:01.697
+Unexpected IOException with stream: n
+
+# Created at 2018-10-25T23:38:01.698
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:38:01.698
+Unexpected IOException with stream: c
+
+# Created at 2018-10-25T23:38:01.698
+Unexpected IOException with stream: t
+
+# Created at 2018-10-25T23:38:01.698
+Unexpected IOException with stream: i
+
+# Created at 2018-10-25T23:38:01.698
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:38:01.699
+Unexpected IOException with stream: n
+
+# Created at 2018-10-25T23:38:01.699
+Unexpected IOException with stream: s
+
+# Created at 2018-10-25T23:38:01.699
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:01.699
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:38:01.700
+Unexpected IOException with stream: r
+
+# Created at 2018-10-25T23:38:01.700
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:38:01.700
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:01.701
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:38:01.701
+Unexpected IOException with stream: l
+
+# Created at 2018-10-25T23:38:01.701
+Unexpected IOException with stream: l
+
+# Created at 2018-10-25T23:38:01.701
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:38:01.702
+Unexpected IOException with stream: w
+
+# Created at 2018-10-25T23:38:01.702
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:38:01.703
+Unexpected IOException with stream: d
+
+# Created at 2018-10-25T23:38:01.703
+Unexpected IOException with stream: .
+
+# Created at 2018-10-25T23:38:01.704
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-25T23:38:02.325
+Unexpected IOException with stream: Oct 25, 2018 11:38:02 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+
+
+# Created at 2018-10-25T23:38:03.610
+Unexpected IOException: 8,1,TestHomePageClick.ClickHomepage,setUp(TestHomePageClick.ClickHomepage),null,unknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58604}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: 2bb3969e444e39a3b78a05fbd211a0f4,null,unknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58604}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: 2bb3969e444e39a3b78a05fbd211a0f4,ClickHomepage>CommonAPI.setUp:66 \00BB WebDriver unknown error: unhandled inspecto...,org.openqa.selenium.WebDriverException: \000Aunknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58604}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: 2bb3969e444e39a3b78a05fbd211a0f4\000A
+
+
+# Created at 2018-10-25T23:38:03.611
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,startExtent(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.611
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,initialization(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.612
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,links(TestHomePageClick.ClickHomepage),null,unknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58604}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: 2bb3969e444e39a3b78a05fbd211a0f4,null
+
+
+# Created at 2018-10-25T23:38:03.613
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,afterEachTestMethod(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.613
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,cleanUp(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.614
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,setUp(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.614
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,startExtent(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.614
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,initialization(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.615
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,logo(TestHomePageClick.ClickHomepage),null,unknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58604}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: 2bb3969e444e39a3b78a05fbd211a0f4,null
+
+
+# Created at 2018-10-25T23:38:03.615
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,afterEachTestMethod(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.615
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,cleanUp(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.616
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,setUp(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.616
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,startExtent(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.617
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,initialization(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.617
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,main(TestHomePageClick.ClickHomepage),null,unknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58604}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: 2bb3969e444e39a3b78a05fbd211a0f4,null
+
+
+# Created at 2018-10-25T23:38:03.617
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,afterEachTestMethod(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.618
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,cleanUp(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.618
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,setUp(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.618
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,startExtent(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.618
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,initialization(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.619
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,main2(TestHomePageClick.ClickHomepage),null,unknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58604}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: 2bb3969e444e39a3b78a05fbd211a0f4,null
+
+
+# Created at 2018-10-25T23:38:03.619
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,afterEachTestMethod(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.619
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,cleanUp(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.620
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,setUp(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.620
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,startExtent(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.621
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,initialization(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.621
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,main3(TestHomePageClick.ClickHomepage),null,unknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58604}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: 2bb3969e444e39a3b78a05fbd211a0f4,null
+
+
+# Created at 2018-10-25T23:38:03.622
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,afterEachTestMethod(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.622
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,cleanUp(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.623
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,setUp(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.623
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,startExtent(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.624
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,initialization(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.624
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,main4(TestHomePageClick.ClickHomepage),null,unknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58604}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: 2bb3969e444e39a3b78a05fbd211a0f4,null
+
+
+# Created at 2018-10-25T23:38:03.625
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,afterEachTestMethod(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.625
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,cleanUp(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.626
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,setUp(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.627
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,startExtent(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.627
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,initialization(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.627
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,main5(TestHomePageClick.ClickHomepage),null,unknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58604}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: 2bb3969e444e39a3b78a05fbd211a0f4,null
+
+
+# Created at 2018-10-25T23:38:03.628
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,afterEachTestMethod(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.628
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,cleanUp(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.629
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,setUp(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.630
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,startExtent(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.630
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,initialization(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.631
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,partialLinkTextverify(TestHomePageClick.ClickHomepage),null,unknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58604}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: 2bb3969e444e39a3b78a05fbd211a0f4,null
+
+
+# Created at 2018-10-25T23:38:03.631
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,afterEachTestMethod(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.632
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,cleanUp(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.633
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,setUp(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.634
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,startExtent(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.634
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,initialization(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.635
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,searchboxiconEnter(TestHomePageClick.ClickHomepage),null,unknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58604}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: 2bb3969e444e39a3b78a05fbd211a0f4,null
+
+
+# Created at 2018-10-25T23:38:03.635
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,afterEachTestMethod(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.635
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,cleanUp(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:03.654
+Unexpected IOException with stream: S
+
+# Created at 2018-10-25T23:38:03.654
+Unexpected IOException with stream: t
+
+# Created at 2018-10-25T23:38:03.654
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:38:03.654
+Unexpected IOException with stream: r
+
+# Created at 2018-10-25T23:38:03.655
+Unexpected IOException with stream: t
+
+# Created at 2018-10-25T23:38:03.655
+Unexpected IOException with stream: i
+
+# Created at 2018-10-25T23:38:03.655
+Unexpected IOException with stream: n
+
+# Created at 2018-10-25T23:38:03.656
+Unexpected IOException with stream: g
+
+# Created at 2018-10-25T23:38:03.656
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:03.656
+Unexpected IOException with stream: C
+
+# Created at 2018-10-25T23:38:03.656
+Unexpected IOException with stream: h
+
+# Created at 2018-10-25T23:38:03.656
+Unexpected IOException with stream: r
+
+# Created at 2018-10-25T23:38:03.657
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:38:03.657
+Unexpected IOException with stream: m
+
+# Created at 2018-10-25T23:38:03.657
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:38:03.657
+Unexpected IOException with stream: D
+
+# Created at 2018-10-25T23:38:03.657
+Unexpected IOException with stream: r
+
+# Created at 2018-10-25T23:38:03.658
+Unexpected IOException with stream: i
+
+# Created at 2018-10-25T23:38:03.658
+Unexpected IOException with stream: v
+
+# Created at 2018-10-25T23:38:03.658
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:38:03.659
+Unexpected IOException with stream: r
+
+# Created at 2018-10-25T23:38:03.659
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:03.659
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:38:03.659
+Unexpected IOException with stream: .
+
+# Created at 2018-10-25T23:38:03.659
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-25T23:38:03.659
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:38:03.660
+Unexpected IOException with stream: .
+
+# Created at 2018-10-25T23:38:03.660
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-25T23:38:03.660
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-25T23:38:03.660
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-25T23:38:03.660
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-25T23:38:03.661
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-25T23:38:03.661
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-25T23:38:03.661
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:03.661
+Unexpected IOException with stream: (
+
+# Created at 2018-10-25T23:38:03.662
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:38:03.662
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-25T23:38:03.662
+Unexpected IOException with stream: d
+
+# Created at 2018-10-25T23:38:03.662
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-25T23:38:03.662
+Unexpected IOException with stream: 6
+
+# Created at 2018-10-25T23:38:03.663
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-25T23:38:03.663
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-25T23:38:03.663
+Unexpected IOException with stream: d
+
+# Created at 2018-10-25T23:38:03.663
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-25T23:38:03.664
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-25T23:38:03.664
+Unexpected IOException with stream: d
+
+# Created at 2018-10-25T23:38:03.664
+Unexpected IOException with stream: 6
+
+# Created at 2018-10-25T23:38:03.664
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-25T23:38:03.665
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:38:03.665
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:38:03.665
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-25T23:38:03.665
+Unexpected IOException with stream: c
+
+# Created at 2018-10-25T23:38:03.665
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-25T23:38:03.665
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-25T23:38:03.666
+Unexpected IOException with stream: f
+
+# Created at 2018-10-25T23:38:03.666
+Unexpected IOException with stream: 6
+
+# Created at 2018-10-25T23:38:03.666
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-25T23:38:03.666
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:38:03.666
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-25T23:38:03.666
+Unexpected IOException with stream: b
+
+# Created at 2018-10-25T23:38:03.667
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-25T23:38:03.667
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:38:03.667
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-25T23:38:03.667
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-25T23:38:03.667
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-25T23:38:03.668
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-25T23:38:03.668
+Unexpected IOException with stream: b
+
+# Created at 2018-10-25T23:38:03.668
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:38:03.668
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-25T23:38:03.668
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:38:03.668
+Unexpected IOException with stream: b
+
+# Created at 2018-10-25T23:38:03.669
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:38:03.669
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:38:03.669
+Unexpected IOException with stream: d
+
+# Created at 2018-10-25T23:38:03.669
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-25T23:38:03.669
+Unexpected IOException with stream: )
+
+# Created at 2018-10-25T23:38:03.670
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:03.670
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:38:03.670
+Unexpected IOException with stream: n
+
+# Created at 2018-10-25T23:38:03.670
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:03.670
+Unexpected IOException with stream: p
+
+# Created at 2018-10-25T23:38:03.671
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:38:03.671
+Unexpected IOException with stream: r
+
+# Created at 2018-10-25T23:38:03.671
+Unexpected IOException with stream: t
+
+# Created at 2018-10-25T23:38:03.671
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:03.672
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-25T23:38:03.672
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-25T23:38:03.672
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-25T23:38:03.672
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-25T23:38:03.673
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-25T23:38:03.673
+Unexpected IOException with stream: O
+
+# Created at 2018-10-25T23:38:03.673
+Unexpected IOException with stream: n
+
+# Created at 2018-10-25T23:38:03.673
+Unexpected IOException with stream: l
+
+# Created at 2018-10-25T23:38:03.673
+Unexpected IOException with stream: y
+
+# Created at 2018-10-25T23:38:03.674
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:03.674
+Unexpected IOException with stream: l
+
+# Created at 2018-10-25T23:38:03.674
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:38:03.674
+Unexpected IOException with stream: c
+
+# Created at 2018-10-25T23:38:03.674
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:38:03.675
+Unexpected IOException with stream: l
+
+# Created at 2018-10-25T23:38:03.675
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:03.675
+Unexpected IOException with stream: c
+
+# Created at 2018-10-25T23:38:03.676
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:38:03.676
+Unexpected IOException with stream: n
+
+# Created at 2018-10-25T23:38:03.676
+Unexpected IOException with stream: n
+
+# Created at 2018-10-25T23:38:03.676
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:38:03.677
+Unexpected IOException with stream: c
+
+# Created at 2018-10-25T23:38:03.678
+Unexpected IOException with stream: t
+
+# Created at 2018-10-25T23:38:03.678
+Unexpected IOException with stream: i
+
+# Created at 2018-10-25T23:38:03.678
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:38:03.678
+Unexpected IOException with stream: n
+
+# Created at 2018-10-25T23:38:03.679
+Unexpected IOException with stream: s
+
+# Created at 2018-10-25T23:38:03.679
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:03.679
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:38:03.679
+Unexpected IOException with stream: r
+
+# Created at 2018-10-25T23:38:03.680
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:38:03.680
+Unexpected IOException with stream:  
+
+# Created at 2018-10-25T23:38:03.680
+Unexpected IOException with stream: a
+
+# Created at 2018-10-25T23:38:03.680
+Unexpected IOException with stream: l
+
+# Created at 2018-10-25T23:38:03.681
+Unexpected IOException with stream: l
+
+# Created at 2018-10-25T23:38:03.681
+Unexpected IOException with stream: o
+
+# Created at 2018-10-25T23:38:03.681
+Unexpected IOException with stream: w
+
+# Created at 2018-10-25T23:38:03.681
+Unexpected IOException with stream: e
+
+# Created at 2018-10-25T23:38:03.682
+Unexpected IOException with stream: d
+
+# Created at 2018-10-25T23:38:03.682
+Unexpected IOException with stream: .
+
+# Created at 2018-10-25T23:38:03.682
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-25T23:38:04.248
+Unexpected IOException with stream: Oct 25, 2018 11:38:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+
+
+# Created at 2018-10-25T23:38:05.839
+Unexpected IOException: 8,1,TestLoginPage.LoginTest,setUp(TestLoginPage.LoginTest),null,unknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58638}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: ced657c514471a62372af2db0544837b,null,unknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58638}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: ced657c514471a62372af2db0544837b,LoginTest>CommonAPI.setUp:66 \00BB WebDriver unknown error: unhandled inspector er...,org.openqa.selenium.WebDriverException: \000Aunknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58638}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: ced657c514471a62372af2db0544837b\000A
+
+
+# Created at 2018-10-25T23:38:05.841
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,startExtent(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.841
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,Initialization2(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.841
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,enterEmailOnEmailBox(TestLoginPage.LoginTest),null,unknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58638}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: ced657c514471a62372af2db0544837b,null
+
+
+# Created at 2018-10-25T23:38:05.842
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,afterEachTestMethod(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.842
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,cleanUp(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.843
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,setUp(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.843
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,startExtent(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.843
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,Initialization2(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.844
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,enterPass(TestLoginPage.LoginTest),null,unknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58638}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: ced657c514471a62372af2db0544837b,null
+
+
+# Created at 2018-10-25T23:38:05.844
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,afterEachTestMethod(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.845
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,cleanUp(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.845
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,setUp(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.845
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,startExtent(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.845
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,Initialization2(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.846
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,logInButtonPress(TestLoginPage.LoginTest),null,unknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58638}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: ced657c514471a62372af2db0544837b,null
+
+
+# Created at 2018-10-25T23:38:05.846
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,afterEachTestMethod(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.847
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,cleanUp(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.847
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,setUp(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.848
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,startExtent(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.848
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,Initialization2(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.849
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,testCreateAccount(TestLoginPage.LoginTest),null,unknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58638}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: ced657c514471a62372af2db0544837b,null
+
+
+# Created at 2018-10-25T23:38:05.849
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,afterEachTestMethod(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.849
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,cleanUp(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.850
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,setUp(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.851
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,startExtent(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.851
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,Initialization2(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.852
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,testLogInButton(TestLoginPage.LoginTest),null,unknown error: unhandled inspector error: {"code":-32000\002C"message":"No target with given id"}\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)\002Cplatform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'Mds-MBP-3.home'\002C ip: 'fe80:0:0:0:102d:9dc2:b464:daa0%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.13.6'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a...\002C userDataDir: /var/folders/tp/ks9_d69n36d...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:58638}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: MAC\002C platformName: MAC\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: ced657c514471a62372af2db0544837b,null
+
+
+# Created at 2018-10-25T23:38:05.852
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,afterEachTestMethod(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.852
+Unexpected IOException: 9,1,TestLoginPage.LoginTest,cleanUp(TestLoginPage.LoginTest),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.890
+Unexpected IOException: 9,1,TestHomePageClick.ClickHomepage,generateReport(TestHomePageClick.ClickHomepage),null,null,null
+
+
+# Created at 2018-10-25T23:38:05.996
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+
